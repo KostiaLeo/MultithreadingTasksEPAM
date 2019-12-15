@@ -1,0 +1,4 @@
+c:\users\kostia\texts\dad.txt - 2 required letter usage
+c:\users\kostia\texts\start.txt - 5 required letter usage
+c:\users\kostia\texts\external\LilPeep.txt - 3 required letter usage
+c:\users\kostia\texts\external\internal\present_paths.txt - 0 required letter usage
